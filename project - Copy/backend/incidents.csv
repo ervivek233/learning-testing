@@ -1,0 +1,13 @@
+ticket_id,company,status,priority,category,assigned_to,created_date,closed_date
+INC001,ABC Corp,open,high,Network,Ramesh,2025-01-05,
+INC002,ABC Corp,closed,low,Hardware,Suresh,2025-01-10,2025-01-12
+INC003,ABC Corp,open,medium,Software,Anita,2025-02-01,
+INC004,ABC Corp,open,high,Security,Ramesh,2025-02-12,
+INC005,XYZ Ltd,closed,medium,Network,Vikram,2025-02-15,2025-02-18
+INC006,XYZ Ltd,open,low,Hardware,Vikram,2025-03-02,
+INC007,XYZ Ltd,open,high,Software,Anita,2025-03-10,
+INC008,ABC Corp,closed,high,Security,Suresh,2025-03-18,2025-03-20
+INC009,ABC Corp,open,low,Network,Ramesh,2025-03-25,
+INC010,XYZ Ltd,open,medium,Software,Anita,2025-03-28,
+INC011,ABC Corp,open,high,Network,Ramesh,2025-04-02,
+INC012,XYZ Ltd,closed,low,Hardware,Vikram,2025-04-05,2025-04-06
